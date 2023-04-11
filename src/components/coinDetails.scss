@@ -1,0 +1,27 @@
+.coinDetails {
+    background-color: #1c1f2b;
+    padding: 40px 60px;
+    // text-align: center;
+    
+}
+h3{
+    color: orange;
+    // margin: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+    // text-align: center;
+
+    &:hover{
+        color: red;
+        cursor: pointer;
+    }
+}
+
+
+
+h4{
+    text-align: center;
+    font-size: 100px;
+    color: white;
+    letter-spacing: 4px;
+}
